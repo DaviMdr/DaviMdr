@@ -155,9 +155,9 @@ Automação desenvolvida em Python para envio automático de mensagens utilizand
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviMdr&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMdr&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -175,7 +175,7 @@ Automação desenvolvida em Python para envio automático de mensagens utilizand
 
 # 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviMdr&theme=tokyo-night&hide_border=true"/>
 
 ---
 
