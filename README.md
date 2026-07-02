@@ -183,11 +183,7 @@ Automação desenvolvida em Python para envio automático de mensagens utilizand
 
 ### Contato
 
-<a href="www.linkedin.com/in/davi-mendonça-modro-28a828370" target="_blank">
-
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/davi-mendonça-modro-28a828370)
 
 <a href="mailto:davimodro6709@gmail.com">
 
