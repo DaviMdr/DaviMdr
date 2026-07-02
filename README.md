@@ -4,7 +4,7 @@
 
 ### Backend Developer • C# • .NET • Python
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;C%23+%7C+.NET;Python+Automation;Always+Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;C%23+%7C+.NET;Always+Learning"/>
 
 </div>
 
@@ -183,7 +183,7 @@ Automação desenvolvida em Python para envio automático de mensagens utilizand
 
 ### Contato
 
-<a href="www.linkedin.com/in/davi-mendonça-modro-28a828370">
+<a href="www.linkedin.com/in/davi-mendonça-modro-28a828370" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 
