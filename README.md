@@ -26,7 +26,7 @@ Atualmente estou construindo projetos para consolidar conhecimentos em desenvolv
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,ts,sql"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,sql"/>
 
 </p>
 
