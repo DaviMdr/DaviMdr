@@ -167,7 +167,7 @@ Automação desenvolvida em Python para envio automático de mensagens utilizand
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DaviMdr&theme=tokyonight&hide_border=true"/>
 
 </div>
 
