@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Davi Modro
+# Olá, eu sou Davi Modro
 
 ### Backend Developer • C# • .NET • Python
 
@@ -10,9 +10,9 @@
 
 ---
 
-# 👨‍💻 Sobre mim
+# Sobre mim
 
-🎯 Desenvolvedor focado em Backend utilizando **C#** e **.NET**.
+Desenvolvedor focado em Backend utilizando **C#** e **.NET**.
 
 Tenho interesse em arquitetura de software, APIs REST, automação de processos e desenvolvimento de sistemas escaláveis.
 
@@ -20,7 +20,7 @@ Atualmente estou construindo projetos para consolidar conhecimentos em desenvolv
 
 ---
 
-# 🚀 Tecnologias
+# Tecnologias
 
 ## Linguagens
 
@@ -80,27 +80,27 @@ Atualmente estou construindo projetos para consolidar conhecimentos em desenvolv
 
 ---
 
-# 📂 Projetos
+# Projetos
 
-### 🎮 RPG Simplificado
+### RPG Simplificado
 
 Sistema em C# desenvolvido para praticar Programação Orientada a Objetos, SOLID e organização de código.
 
 ---
 
-### 💈 Barbearia App
+### Barbearia App
 
 Sistema para gerenciamento de clientes, barbeiros e agendamentos.
 
 ---
 
-### 🤖 WhatsApp Automation
+### WhatsApp Automation
 
 Automação desenvolvida em Python para envio automático de mensagens utilizando WhatsApp Web.
 
 ---
 
-# 📚 Roadmap
+# Roadmap
 
 ## ✔ Conhecimentos
 
@@ -115,7 +115,7 @@ Automação desenvolvida em Python para envio automático de mensagens utilizand
 
 ---
 
-## 📖 Estudando
+## Estudando
 
 - ASP.NET Core
 
@@ -137,7 +137,7 @@ Automação desenvolvida em Python para envio automático de mensagens utilizand
 
 ---
 
-## 🎯 Próximos passos
+## Próximos passos
 
 - RabbitMQ
 
@@ -151,7 +151,7 @@ Automação desenvolvida em Python para envio automático de mensagens utilizand
 
 ---
 
-# 📊 GitHub
+# GitHub
 
 <div align="center">
 
@@ -163,7 +163,7 @@ Automação desenvolvida em Python para envio automático de mensagens utilizand
 
 ---
 
-# 🔥 Contribuições
+# Contribuições
 
 <div align="center">
 
@@ -173,7 +173,7 @@ Automação desenvolvida em Python para envio automático de mensagens utilizand
 
 ---
 
-# 📈 Activity Graph
+# Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviMdr&theme=tokyo-night&hide_border=true"/>
 
@@ -181,7 +181,7 @@ Automação desenvolvida em Python para envio automático de mensagens utilizand
 
 <div align="center">
 
-### 📫 Contato
+### Contato
 
 <a href="www.linkedin.com/in/davi-mendonça-modro-28a828370">
 
@@ -201,6 +201,6 @@ Automação desenvolvida em Python para envio automático de mensagens utilizand
 
 <div align="center">
 
-## 💡 "Code. Learn. Improve. Repeat."
+## "Code. Learn. Improve. Repeat."
 
 </div>
